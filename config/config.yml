@@ -1,0 +1,22 @@
+web:
+ host: 0.0.0.0:8081
+db:
+ username: example
+ password: example
+ host: tcp(host:port)
+ database: example
+wechatMp:
+  appId: example
+  appSecret: example
+wechat:
+  appId: example
+  appSecret: example
+redis:
+  host: host:port
+  db: 0
+qiniu:
+  accessKey: example
+  secretKey: example-CFKGlH7hF00dq2prOWuIf
+aliyun:
+  accessKey: example
+  secretKey: example
